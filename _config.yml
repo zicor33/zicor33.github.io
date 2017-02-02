@@ -8,12 +8,12 @@ logo:             # filename of a logo image that has been placed into your imag
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
+  name: Ian Toma
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  twitter: #username
-  facebook: #username
+  bio: "A brief description of yourself to be added."
+  email: itoma@gwu.edu
+  twitter: #zicor33
+  facebook: #itoma
   instagram: #username
   linkedin: #username
   github: #username
